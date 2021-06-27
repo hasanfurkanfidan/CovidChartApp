@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CovidChartApp.Mvc_
+namespace CovidChartApp.Mvc
 {
     public class Startup
     {

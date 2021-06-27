@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31410.414
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidChartApp.Api", "CovidChartApp.Api\CovidChartApp.Api.csproj", "{1EE0835A-54E4-42E8-A3E3-81F5B756F0AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovidChartApp.Api", "CovidChartApp.Api\CovidChartApp.Api.csproj", "{1EE0835A-54E4-42E8-A3E3-81F5B756F0AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidChartApp.Mvc,", "CovidChartApp.Mvc,\CovidChartApp.Mvc,.csproj", "{D99A36BC-7E13-4B07-BD56-D3E6630E8450}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidChartApp.Mvc", "CovidChartApp.Mvc\CovidChartApp.Mvc.csproj", "{A8E66904-AB4A-40D3-8537-C6009D10B543}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{1EE0835A-54E4-42E8-A3E3-81F5B756F0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EE0835A-54E4-42E8-A3E3-81F5B756F0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EE0835A-54E4-42E8-A3E3-81F5B756F0AB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D99A36BC-7E13-4B07-BD56-D3E6630E8450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D99A36BC-7E13-4B07-BD56-D3E6630E8450}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D99A36BC-7E13-4B07-BD56-D3E6630E8450}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D99A36BC-7E13-4B07-BD56-D3E6630E8450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E66904-AB4A-40D3-8537-C6009D10B543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E66904-AB4A-40D3-8537-C6009D10B543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E66904-AB4A-40D3-8537-C6009D10B543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E66904-AB4A-40D3-8537-C6009D10B543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

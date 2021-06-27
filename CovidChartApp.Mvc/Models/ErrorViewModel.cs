@@ -1,6 +1,6 @@
 using System;
 
-namespace CovidChartApp.Mvc_.Models
+namespace CovidChartApp.Mvc.Models
 {
     public class ErrorViewModel
     {

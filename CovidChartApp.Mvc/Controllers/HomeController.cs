@@ -1,4 +1,4 @@
-﻿using CovidChartApp.Mvc_.Models;
+﻿using CovidChartApp.Mvc.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CovidChartApp.Mvc_.Controllers
+namespace CovidChartApp.Mvc.Controllers
 {
     public class HomeController : Controller
     {
